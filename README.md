@@ -126,29 +126,27 @@ Price Adjustment Slicer-Allows the user to adjust the profit price adjustment
 
 ## Key Insights
 
+Total Revenue stands at 24.91M, with a Profit of 10.5M, 25.16K Orders, and a Return Rate of 2.1%.
 
--Total Revenue is 24.91M ,10.5M Profit, 25.16K Orders, 2.1% Return Rate
+A noticeable peak in revenue occurred in January 2022.
 
--There was peaking trend in high revenue in jan 2022
+Monthly Metrics include 1.83M in revenue, 2,146 orders, and 166 returns.
 
--monthly revenue 1.83M, Monthly orders 2146 ,Monthly Returns 166
+The majority of sales are from the Accessories category.
 
--Most of the catergory sold are from accessories
+The 30oz Water Bottle has the highest number of total orders.
 
--water bottle -30oz has the highest total orders
+The Fender Set Mountain generates the highest total revenue.
 
--fender set mountain has the highest total revenue 
+The Sport 100 Helmet, Red has the highest return rate at 3.3%.
 
--Sport 100 helmet,Red has highest return rate of 3.3%
+There are a total of 17.4K customers, with an average of 1.43K in revenue per customer.
 
--17.4k total customers,1.43k total revenue per customer
+The highest number of orders comes from Professionals.
 
--most orders are ordered by professional
+Maurice Shan is the top customer by revenue, contributing 12.41K.
 
--mr.maurice shan is top customer by revenue with 12.41k
-
--us has the highest number of orders
-
+The United States has the highest number of orders.
 
 
 
