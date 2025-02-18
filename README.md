@@ -115,19 +115,38 @@ Total Revenue = SUMX('Sales Data',RELATED('Product Lookup'[ProductPrice])*'Sales
 ![image](https://github.com/user-attachments/assets/27b6d799-3ee2-402f-8e08-ac704ddd51ee)
 
 
+# Slicer 
+
+Year Slicer-Allows user to change the year
+
+Continent Slicer-Allows user to change the continent
+
+Price Adjustment Slicer-Allows the user to adjust the profit price adjustment
+
+
 ## Key Insights
 
 
 -Total Revenue is 24.91M ,10.5M Profit, 25.16K Orders, 2.1% Return Rate
+
 -There was peaking trend in high revenue in jan 2022
+
 -monthly revenue 1.83M, Monthly orders 2146 ,Monthly Returns 166
+
 -Most of the catergory sold are from accessories
+
 -water bottle -30oz has the highest total orders
+
 -fender set mountain has the highest total revenue 
+
 -Sport 100 helmet,Red has highest return rate of 3.3%
+
 -17.4k total customers,1.43k total revenue per customer
+
 -most orders are ordered by professional
+
 -mr.maurice shan is top customer by revenue with 12.41k
+
 -us has the highest number of orders
 
 
